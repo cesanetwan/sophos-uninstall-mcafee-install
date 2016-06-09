@@ -1,4 +1,4 @@
-# v1.2
+# v1.3
 # Developed by Gareth Hill & Joshua Weller for Catholic Education South Australia
 # Accepts the path to the McAfee Installer as an argument
 # Removes any exists elements of a Sophos Anti-Virus Install, and triggers an installation of the McAfee (or any other) agent
